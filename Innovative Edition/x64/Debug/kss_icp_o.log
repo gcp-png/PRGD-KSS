@@ -1,0 +1,41 @@
+﻿  kss_icp.cpp
+D:\PCL 1.14.1\3rdParty\Eigen3\include\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“kss_icp.cpp”)
+  
+D:\PCL 1.14.1\3rdParty\Eigen3\include\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“kss_icp.cpp”)
+  
+D:\PCL 1.14.1\3rdParty\Eigen3\include\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“kss_icp.cpp”)
+  
+D:\PCL 1.14.1\include\pcl-1.14\pcl\visualization\interactor_style.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“kss_icp.cpp”)
+  
+D:\PCL 1.14.1\include\pcl-1.14\pcl\visualization\pcl_visualizer.h(1603,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“kss_icp.cpp”)
+  
+D:\PCL 1.14.1\3rdParty\VTK\include\vtk-9.3\vtkPolyDataMapper.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“kss_icp.cpp”)
+  
+C:\Users\86198\Desktop\20256\ICP\kss_icp_o\kss_icp_o\kss_icp.cpp(281,22): warning C4566: 由通用字符名称“\u00B2”表示的字符不能在当前代码页(936)中表示出来
+  main.cpp
+D:\PCL 1.14.1\3rdParty\Eigen3\include\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\PCL 1.14.1\3rdParty\Eigen3\include\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\PCL 1.14.1\3rdParty\Eigen3\include\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\PCL 1.14.1\include\pcl-1.14\pcl\visualization\interactor_style.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\PCL 1.14.1\include\pcl-1.14\pcl\visualization\pcl_visualizer.h(1603,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+D:\PCL 1.14.1\3rdParty\VTK\include\vtk-9.3\vtkPolyDataMapper.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+  正在生成代码...
+  kss_icp_o.vcxproj -> C:\Users\86198\Desktop\20256\ICP\kss_icp_o\x64\Debug\kss_icp_o.exe
